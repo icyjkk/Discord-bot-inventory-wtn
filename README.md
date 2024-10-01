@@ -30,3 +30,6 @@ The following commands are supported by the bot:
 | `!remove "name" size` | Removes a specific size of a sneaker from the user's inventory.                      |
 | `!removeSKU sku size` | Removes a specific size of a sneaker by SKU from the user's inventory.               |
 | `!add "name" sku`     | Adds a new sneaker to the bot's database with the given name and SKU.                |
+
+![image](https://github.com/user-attachments/assets/eebe9d63-3d83-4e0e-a1c8-82a64beb2715)
+
